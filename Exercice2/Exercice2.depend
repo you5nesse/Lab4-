@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1792767168 source:c:\users\pc\documents\sql_lab1\exercice2\src\universite.cpp
+
+1792767404 source:c:\users\pc\documents\sql_lab1\exercice2\src\etudiant.cpp
+	"Etudiant.h"
+
+1792767370 c:\users\pc\documents\sql_lab1\exercice2\include\etudiant.h
+	<string>
+	<universite.h>
+
+1792767168 c:\users\pc\documents\sql_lab1\exercice2\include\universite.h
+	<iostream>
+	<string>
+
+1792767443 source:c:\users\pc\documents\sql_lab1\exercice2\main.cpp
+	<iostream>
+	<universite.h>
+	<Etudiant.h>
+

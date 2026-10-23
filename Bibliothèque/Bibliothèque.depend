@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792764851 source:c:\users\pc\documents\sql_lab1\bibliothèque\main.cpp
+	<iostream>
+	<Livre.h>
+
+1792764552 c:\users\pc\documents\sql_lab1\bibliothèque\include\livre.h
+	<string>
+
